@@ -3,7 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="Review Code Prj">
-            <file>file:/D:/Workspace/PRJ%20cua%20Pac/BookStore/web/view/home.jsp</file>
+            <file>file:/D:/Workspace/PRJ%20cua%20Pac/BookStore/src/java/controller/filter/AdminFilter.java</file>
+            <file>file:/D:/Workspace/PRJ%20cua%20Pac/BookStore/src/java/dal/DBContext.java</file>
         </group>
     </open-files>
 </project-private>

@@ -19,8 +19,8 @@ import lombok.ToString;
 @NoArgsConstructor
 @Getter
 @Setter
-
 public class Category {
     private int id;
     private String name;
+    
 }
